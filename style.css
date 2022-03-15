@@ -21,7 +21,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 25em;
+    min-height: 20em;
+    font-family: 'Roboto', sans-serif;
 
 }
 .container{
@@ -34,6 +35,7 @@ body {
 
 .header{
     padding: 5px 0;
+    font-family: 'Capriola', sans-serif;
 }
 
 .main-container p{
